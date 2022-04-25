@@ -23,8 +23,8 @@ Trips by Customer Type and Gender - Here we can look at what kind of users use c
 ![image](https://user-images.githubusercontent.com/97119920/165169206-f6053bc7-f703-4564-ac65-df170336a171.png)
 
 
-When and How Long Bike Sharing Used in General - We can use the visualizations in this section of the story to set up maintenance schedules and how many bikes are needed at any given time.  
-![image](https://user-images.githubusercontent.com/97119920/165169880-7aca2cb4-6947-459e-88e0-8531d4a82c9d.png)
+When and How Long Bike Sharing Used in General - We can use the visualizations in this section of the story to set up maintenance schedules and how many bikes are needed at any given time.
+![image](https://user-images.githubusercontent.com/97119920/165170745-16e9c1ff-342a-46f3-89b2-edc5481dd2bf.png)
 
 
 When and How Long Bike Sharing Used by Gender - This section shows how bike utilization by time and gender. To keep a gender using a bike longer to increase profits, we can have a targeted gameplan of incentives that appeal to a particular gender (i.e. discounts, 3rd party coupons if ride lasts certain length).
