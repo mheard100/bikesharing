@@ -17,6 +17,7 @@ This project consisted on creating a pitch for a citi bike (bikesharing) busines
   - Tableau Public
 
 ## Results
+The following link has the tableau story on the public server:
 [Tableau Public Story](https://public.tableau.com/app/profile/michael.j.heard/viz/BikeSharingProposalDesMoines/BikeSharingProposalStory?publish=yes)
 
 Trips by Customer Type and Gender - Here we can look at what kind of users use citibikes. This can be used to target potential clients in Des Moines through specified advertising (Try to get users to subscribe and target specific gender audiences).
