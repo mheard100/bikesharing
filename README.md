@@ -23,14 +23,12 @@ Trips by Customer Type and Gender - Here we can look at what kind of users use c
 ![image](https://user-images.githubusercontent.com/97119920/165169206-f6053bc7-f703-4564-ac65-df170336a171.png)
 
 
-When and How Long Bike Sharing Used in General - We can use the visualizations in this section of the story to set up maintenance schedules and how many bikes are needed at any given time. 
+When and How Long Bike Sharing Used in General - We can use the visualizations in this section of the story to set up maintenance schedules and how many bikes are needed at any given time.  
 ![image](https://user-images.githubusercontent.com/97119920/165169880-7aca2cb4-6947-459e-88e0-8531d4a82c9d.png)
 
 
-When and How Long Bike Sharing Used by Gender - This section shows how bike utilization by time and gender. To keep a gender using a bike longer to increase profits, we can have a targeted gameplan of incentives that appeal to a particular gender
-
-
-
+When and How Long Bike Sharing Used by Gender - This section shows how bike utilization by time and gender. To keep a gender using a bike longer to increase profits, we can have a targeted gameplan of incentives that appeal to a particular gender (i.e. discounts, 3rd party coupons if ride lasts certain length).
+![image](https://user-images.githubusercontent.com/97119920/165169946-262a7dea-406a-457d-b24e-3dc2189ccdd8.png)
 
 
 
@@ -38,4 +36,6 @@ When and How Long Bike Sharing Used by Gender - This section shows how bike util
 
 
 ## Summary
+Further analysis is needed for Des Moines. We can look at figures that show bike utilization by geography in Des Moines to help target where bikes should go. Furthermore, looking at citibike data by user type in different cities from where the user is registered would be a good figure to show how many bike rides are used on vacation vs local traffic. 
+
 
